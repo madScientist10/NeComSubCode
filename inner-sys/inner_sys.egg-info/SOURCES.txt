@@ -1,0 +1,6 @@
+setup.py
+inner_sys.egg-info/PKG-INFO
+inner_sys.egg-info/SOURCES.txt
+inner_sys.egg-info/dependency_links.txt
+inner_sys.egg-info/requires.txt
+inner_sys.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+setup.py
+multiinterface.egg-info/PKG-INFO
+multiinterface.egg-info/SOURCES.txt
+multiinterface.egg-info/dependency_links.txt
+multiinterface.egg-info/requires.txt
+multiinterface.egg-info/top_level.txt
